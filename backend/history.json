@@ -1,0 +1,62 @@
+[
+    {
+        "title": "AI + Full Stack Developer",
+        "company": "Vinculum Solutions",
+        "role": "full stack developer",
+        "time": "22-05-2026 15:05:47"
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "Logic Planet",
+        "role": "frontend developer",
+        "time": "22-05-2026 15:07:46"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Amoga",
+        "role": "software engineer",
+        "time": "22-05-2026 15:08:34"
+    },
+    {
+        "title": "Trainee Software Engineers \u2013 Freshers",
+        "company": "Razorthink",
+        "role": "software engineer",
+        "time": "22-05-2026 15:09:17"
+    },
+    {
+        "title": "Python Developer",
+        "company": "Knowledgesprint Technologies",
+        "role": "python developer",
+        "time": "22-05-2026 15:09:30"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "The Fast Way",
+        "role": "backend developer",
+        "time": "22-05-2026 15:11:04"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Code Players",
+        "role": "backend developer",
+        "time": "22-05-2026 15:11:50"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Narayana Health (NH)",
+        "role": "data analyst",
+        "time": "22-05-2026 15:12:04"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "MNC Group",
+        "role": "data analyst",
+        "time": "22-05-2026 15:12:12"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Exly",
+        "role": "data analyst",
+        "time": "22-05-2026 15:12:19"
+    }
+]
